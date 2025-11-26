@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Dataset pesanti
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Modelli addestrati
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# Output di training
+logs/
+checkpoints/
