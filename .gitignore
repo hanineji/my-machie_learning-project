@@ -221,3 +221,7 @@ __marimo__/
 # Output di training
 logs/
 checkpoints/
+# File grandi generici
+*.zip
+*.tar
+*.gz
