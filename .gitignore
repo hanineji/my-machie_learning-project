@@ -207,6 +207,7 @@ marimo/_lsp/
 __marimo__/
 # Dataset pesanti
 *.csv
+!data/*.csv
 *.tsv
 *.xlsx
 *.json
