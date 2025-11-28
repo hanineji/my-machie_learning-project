@@ -215,6 +215,7 @@ __marimo__/
 !data/*.csv
 
 
+
 # Modelli addestrati
 *.h5
 *.hdf5
