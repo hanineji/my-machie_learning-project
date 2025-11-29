@@ -230,3 +230,5 @@ checkpoints/
 *.zip
 *.tar
 *.gz
+models/
+!models/README.md
